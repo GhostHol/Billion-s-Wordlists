@@ -111,3 +111,28 @@ Each version has its own advantages and the bigger the version, the more wordlis
 - has a list of 14 billion word combinations
 - Size: 98.5 GB File (.txt)
 - Size: 394 MB File (rar)
+
+**GhostHol Wordlists v0.6** -> [Next](https://github.com/GhostHol/Billion-s-Wordlists/releases/tag/Billion's_Wordlists_v0.6)
+- has a list of 16 billion word combinations
+- Size: 112.5 GB File (.txt)
+- Size: 450 MB File (rar)
+
+**GhostHol Wordlists v0.7** -> **SOON**
+- has a list of 18 billion word combinations
+- Size: - GB File (.txt)
+- Size: - MB File (rar)
+
+**GhostHol Wordlists v0.8** -> **SOON**
+- has a list of 20 billion word combinations
+- Size: - GB File (.txt)
+- Size: - MB File (rar)
+
+**GhostHol Wordlists v0.9** -> **SOON**
+- has a list of 22 billion word combinations
+- Size: - GB File (.txt)
+- Size: - MB File (rar)
+
+**GhostHol Wordlists v1.0** -> **SOON**
+- has a list of - billion word combinations
+- Size: - GB File (.txt)
+- Size: - MB File (rar)
