@@ -2,7 +2,7 @@
 # Billion's Wordlist's all combinations.
 
 Billion words is a huge collection of words, containing countless possible combinations. 
-This collection of words can be used for a variety of purposes, including cybersecurity, data analysis, and creativity.
+This collection of words can be used for a variety of purposes, including cybersecurity, technical hacking, data analysis, and creativity.
 
 # want to check how many lines there are in this file you can use my project
 [Read Line for File txt](https://github.com/GhostHol/Read-Line-txt), but this file is still under development and can only read 2GB per second, not yet 5GB and above
@@ -106,3 +106,8 @@ Each version has its own advantages and the bigger the version, the more wordlis
 - has a list of 12 billion word combinations
 - Size: 84.5 GB File (.txt)
 - Size: 338 MB File (rar)
+
+**GhostHol Wordlists v0.5** -> [Next](https://github.com/GhostHol/Billion-s-Wordlists/releases/tag/Billion's_Wordlists_v0.5)
+- has a list of 14 billion word combinations
+- Size: 98.5 GB File (.txt)
+- Size: 394 MB File (rar)
