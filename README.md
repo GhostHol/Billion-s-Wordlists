@@ -83,3 +83,11 @@ Ultimately, the best way to use Billion words is to adapt them to your specific 
 # notes
 My goal in making Billion's wordlists is to serve as `educational material` and help in `solving unsolved problems`. 
 This has words that are impossible and not impossible in this project
+
+# Version
+Each version has its own advantages and the bigger the version, the more wordlists it contains.
+
+**GhostHol Wordlists v0.1** [Next](https://github.com/GhostHol/Billion-s-Wordlists/releases/tag/Billion's_Wordlists_v0.1)
+- has a list of 6 billion word combinations
+- Size: 42.5 GB File (.txt)
+- Size: 170 MB File (rar)
