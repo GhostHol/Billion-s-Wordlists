@@ -5,7 +5,7 @@ Billion words is a huge collection of words, containing countless possible combi
 This collection of words can be used for a variety of purposes, including cybersecurity, data analysis, and creativity.
 
 # want to check how many lines there are in this file you can use my project
-[Read Line for File txt](), but this file is still under development and can only read 2GB per second, not yet 5GB and above
+[Read Line for File txt](https://github.com/GhostHol/Read-Line-txt), but this file is still under development and can only read 2GB per second, not yet 5GB and above
 
 
 # The Power of Billion Words
