@@ -87,7 +87,17 @@ This has words that are impossible and not impossible in this project
 # Version
 Each version has its own advantages and the bigger the version, the more wordlists it contains.
 
-**GhostHol Wordlists v0.1** [Next](https://github.com/GhostHol/Billion-s-Wordlists/releases/tag/Billion's_Wordlists_v0.1)
+**GhostHol Wordlists v0.1** -> [Next](https://github.com/GhostHol/Billion-s-Wordlists/releases/tag/Billion's_Wordlists_v0.1)
 - has a list of 6 billion word combinations
 - Size: 42.5 GB File (.txt)
 - Size: 170 MB File (rar)
+
+**GhostHol Wordlists v0.2** -> [Next](https://github.com/GhostHol/Billion-s-Wordlists/releases/tag/Billion's_Wordlists_v0.2)
+- has a list of 8 billion word combinations
+- Size: 57.2 GB File (.txt)
+- Size: 228 MB File (rar)
+
+**GhostHol Wordlists v0.3** -> [Next](https://github.com/GhostHol/Billion-s-Wordlists/releases/tag/Billion's_Wordlists_v0.3)
+- has a list of 10 billion word combinations
+- Size: 70.5 GB File (.txt)
+- Size: 282 MB File (rar)
